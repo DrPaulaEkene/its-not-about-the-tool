@@ -1,11 +1,9 @@
 # Power BI
 
-**Contribution: a model with drill-through, and statistics the tool performs itself.**
+**Status: not built yet.**
 
-A shared Years lookup joins every fact table, so one slicer drives five visuals — without it a slicer reaches only the table it came from. Year is set to "don't summarize", because left alone Power BI offers the sum of every year, a meaningless figure that looks like data.
+This is the third tool in the series and the episode has not been filmed.
 
-The visuals are chosen for what only this tool does: a filled map, a ribbon chart for rank changes, a decomposition tree that picks its own branches, small multiples on a shared axis, and Key Influencers — which states the finding as an English sentence.
+What is in this folder is the prep work: the DAX measures I plan to use, written out ready to paste in. Nothing here has been run against the data, so do not read any result into it.
 
-[`dax_measures.txt`](dax_measures.txt) — the 18 measures.
-
-**The caveat that has to be said out loud.** Key Influencers finds association, not cause. It is a correlation engine with a confident voice.
+I will rewrite this page properly once the model is built and the dashboard is finished.

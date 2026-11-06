@@ -1,13 +1,15 @@
 # Excel
 
-![Dashboard](../dashboards/excel_dashboard.png)
+**Status: finished.**
 
-**Contribution: a cleaning pipeline that re-runs itself, and graphics drawn inside the cells.**
+Everything starts from the raw ONS download, untouched. Power Query does the cleaning, which matters because it records every step rather than performing it. When next year's file is published I point the query at it and press refresh, and the whole clean runs again in about four seconds.
 
-The cleaning is recorded rather than performed — Power Query stores every transformation as a step, so next year's ONS release re-runs the whole thing without anything being re-typed. Four tables load to the data model rather than to worksheets, and the headline figures are calculated rather than typed, so they move when the data moves.
+The four cleaned tables go into the data model rather than onto worksheets. One of them is twenty one thousand rows, and putting that on a sheet makes the workbook slow for no benefit at all.
 
-The five charts are five different forms: a lollipop, in-cell sparklines, a treemap, a histogram and columns carrying published 95% intervals. The sparklines are the thing no other tool on this list can do.
+Five PivotTables answer the five questions, all reading from that one model. Every rate is averaged, never summed. A rate already has the population inside it, so adding two of them together produces a number that means nothing. I learned that the hard way, on camera, when a pivot told me the death rate was over a thousand per hundred thousand.
 
-[`alcohol_deaths_excel.xlsx`](alcohol_deaths_excel.xlsx) — the Power Query pipeline, the data model, five charts and the dashboard.
+The lollipop chart is not something Excel offers. I built it from a scatter for the dots and an error bar running backwards for the stick. Excel will combine a column chart with a scatter but not a bar chart with one, and it does not tell you that. The option is simply missing from the menu.
 
-**Honest limitation.** Excel refreshes beautifully and lays out badly. It also will not combine a horizontal bar chart with a scatter at all, which is why the lollipop is built from a scatter with an error bar used as the stick.
+The four numbers across the top are not typed. Each one points at the cell it came from, so they move when the data does.
+
+[`alcohol_deaths_excel.xlsx`](alcohol_deaths_excel.xlsx) is the workbook, with the queries, the model, the pivots and all six panels.

@@ -1,11 +1,9 @@
 # SQL
 
-**Contribution: it shows what every other tool here is doing underneath.**
+**Status: not built yet.**
 
-The raw tables are imported untouched — titles, notes and all — and cleaned by query. Rows are kept only where the first value looks like a four-digit year, which drops every title and footnote in one condition and still works when ONS moves them. There are no row numbers to maintain.
+The plan for this one is to import the ONS tables completely untouched, titles, notes and all, then clean them with queries rather than by hand. Keeping only rows whose first value looks like a four digit year drops every title and footnote in a single condition, and it keeps working when ONS moves things around.
 
-The cross-check is the strongest evidence in the project: two different ONS tables, counted two different ways, agree exactly for every year from 2018 to 2024.
+[`queries.sql`](queries.sql) holds the prepared script, written as a set of steps to follow. It has not been run end to end yet, so no number in it has been checked.
 
-[`queries.sql`](queries.sql) — cleaning, the five answers, window functions for ranking, and the cross-check.
-
-**Honest limitation.** Nothing here is presentable to anyone who does not read SQL. Its value is that every number in every other folder can be traced back to a query in this file.
+I will rewrite this page with the actual results once the episode is done.
