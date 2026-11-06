@@ -1,0 +1,11 @@
+~$*
+*.tmp
+desktop.ini
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+*.bak
+
+# large working files
+_segments/
+clips/

@@ -1,0 +1,1081 @@
+AreaCode,Area,Year,Sex,ICD,Cause,Proportion
+K02000001,United Kingdom,2024,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2024,Persons,F10,Mental and behavioural disorders due to the use of alcohol,15.4
+K02000001,United Kingdom,2024,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2024,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2024,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2024,Persons,I426,Alcoholic cardiomyopathy,1.4
+K02000001,United Kingdom,2024,Persons,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2024,Persons,K70,Alcoholic liver disease,74.3
+K02000001,United Kingdom,2024,Persons,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2024,Persons,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2024,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2024,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2024,Persons,X45,Accidental poisoning by and exposure to alcohol,6.2
+K02000001,United Kingdom,2024,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2024,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2024,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2024,Males,F10,Mental and behavioural disorders due to the use of alcohol,16.1
+K02000001,United Kingdom,2024,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2024,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2024,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2024,Males,I426,Alcoholic cardiomyopathy,1.7
+K02000001,United Kingdom,2024,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2024,Males,K70,Alcoholic liver disease,72.9
+K02000001,United Kingdom,2024,Males,K852,Alcohol-induced acute pancreatitis,1.9
+K02000001,United Kingdom,2024,Males,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2024,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2024,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2024,Males,X45,Accidental poisoning by and exposure to alcohol,6.2
+K02000001,United Kingdom,2024,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2024,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2024,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2024,Females,F10,Mental and behavioural disorders due to the use of alcohol,14.0
+K02000001,United Kingdom,2024,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2024,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2024,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2024,Females,I426,Alcoholic cardiomyopathy,0.9
+K02000001,United Kingdom,2024,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2024,Females,K70,Alcoholic liver disease,76.9
+K02000001,United Kingdom,2024,Females,K852,Alcohol-induced acute pancreatitis,1.2
+K02000001,United Kingdom,2024,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2024,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2024,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2024,Females,X45,Accidental poisoning by and exposure to alcohol,6.1
+K02000001,United Kingdom,2024,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.2
+K02000001,United Kingdom,2024,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2023,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2023,Persons,F10,Mental and behavioural disorders due to the use of alcohol,15.0
+K02000001,United Kingdom,2023,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2023,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2023,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2023,Persons,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2023,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2023,Persons,K70,Alcoholic liver disease,75.6
+K02000001,United Kingdom,2023,Persons,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2023,Persons,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2023,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2023,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2023,Persons,X45,Accidental poisoning by and exposure to alcohol,5.3
+K02000001,United Kingdom,2023,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2023,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2023,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2023,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.7
+K02000001,United Kingdom,2023,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2023,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2023,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2023,Males,I426,Alcoholic cardiomyopathy,2.0
+K02000001,United Kingdom,2023,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2023,Males,K70,Alcoholic liver disease,74.1
+K02000001,United Kingdom,2023,Males,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2023,Males,K860,Alcohol-induced chronic pancreatitis,0.5
+K02000001,United Kingdom,2023,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2023,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2023,Males,X45,Accidental poisoning by and exposure to alcohol,5.6
+K02000001,United Kingdom,2023,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2023,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2023,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2023,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.5
+K02000001,United Kingdom,2023,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2023,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2023,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2023,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2023,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2023,Females,K70,Alcoholic liver disease,78.7
+K02000001,United Kingdom,2023,Females,K852,Alcohol-induced acute pancreatitis,1.6
+K02000001,United Kingdom,2023,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2023,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2023,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2023,Females,X45,Accidental poisoning by and exposure to alcohol,4.8
+K02000001,United Kingdom,2023,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2023,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2022,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2022,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.9
+K02000001,United Kingdom,2022,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2022,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2022,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2022,Persons,I426,Alcoholic cardiomyopathy,1.5
+K02000001,United Kingdom,2022,Persons,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2022,Persons,K70,Alcoholic liver disease,76.0
+K02000001,United Kingdom,2022,Persons,K852,Alcohol-induced acute pancreatitis,1.6
+K02000001,United Kingdom,2022,Persons,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2022,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2022,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2022,Persons,X45,Accidental poisoning by and exposure to alcohol,5.2
+K02000001,United Kingdom,2022,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2022,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2022,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2022,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.3
+K02000001,United Kingdom,2022,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2022,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2022,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2022,Males,I426,Alcoholic cardiomyopathy,2.0
+K02000001,United Kingdom,2022,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2022,Males,K70,Alcoholic liver disease,74.4
+K02000001,United Kingdom,2022,Males,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2022,Males,K860,Alcohol-induced chronic pancreatitis,0.5
+K02000001,United Kingdom,2022,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2022,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2022,Males,X45,Accidental poisoning by and exposure to alcohol,5.5
+K02000001,United Kingdom,2022,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2022,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2022,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2022,Females,F10,Mental and behavioural disorders due to the use of alcohol,14.0
+K02000001,United Kingdom,2022,Females,G312,Degeneration of nervous system due to alcohol,0.0
+K02000001,United Kingdom,2022,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2022,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2022,Females,I426,Alcoholic cardiomyopathy,0.5
+K02000001,United Kingdom,2022,Females,K292,Alcoholic gastritis,0.4
+K02000001,United Kingdom,2022,Females,K70,Alcoholic liver disease,78.9
+K02000001,United Kingdom,2022,Females,K852,Alcohol-induced acute pancreatitis,1.4
+K02000001,United Kingdom,2022,Females,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2022,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2022,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2022,Females,X45,Accidental poisoning by and exposure to alcohol,4.5
+K02000001,United Kingdom,2022,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2022,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2021,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2021,Persons,F10,Mental and behavioural disorders due to the use of alcohol,12.1
+K02000001,United Kingdom,2021,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2021,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2021,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2021,Persons,I426,Alcoholic cardiomyopathy,1.5
+K02000001,United Kingdom,2021,Persons,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2021,Persons,K70,Alcoholic liver disease,78.0
+K02000001,United Kingdom,2021,Persons,K852,Alcohol-induced acute pancreatitis,1.5
+K02000001,United Kingdom,2021,Persons,K860,Alcohol-induced chronic pancreatitis,0.5
+K02000001,United Kingdom,2021,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2021,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2021,Persons,X45,Accidental poisoning by and exposure to alcohol,5.8
+K02000001,United Kingdom,2021,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2021,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2021,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2021,Males,F10,Mental and behavioural disorders due to the use of alcohol,13.1
+K02000001,United Kingdom,2021,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2021,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2021,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2021,Males,I426,Alcoholic cardiomyopathy,2.0
+K02000001,United Kingdom,2021,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2021,Males,K70,Alcoholic liver disease,75.9
+K02000001,United Kingdom,2021,Males,K852,Alcohol-induced acute pancreatitis,1.8
+K02000001,United Kingdom,2021,Males,K860,Alcohol-induced chronic pancreatitis,0.6
+K02000001,United Kingdom,2021,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2021,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2021,Males,X45,Accidental poisoning by and exposure to alcohol,6.1
+K02000001,United Kingdom,2021,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2021,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2021,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2021,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.2
+K02000001,United Kingdom,2021,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2021,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2021,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2021,Females,I426,Alcoholic cardiomyopathy,0.6
+K02000001,United Kingdom,2021,Females,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2021,Females,K70,Alcoholic liver disease,82.1
+K02000001,United Kingdom,2021,Females,K852,Alcohol-induced acute pancreatitis,1.1
+K02000001,United Kingdom,2021,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2021,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2021,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2021,Females,X45,Accidental poisoning by and exposure to alcohol,5.1
+K02000001,United Kingdom,2021,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2021,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2020,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2020,Persons,F10,Mental and behavioural disorders due to the use of alcohol,12.1
+K02000001,United Kingdom,2020,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2020,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2020,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2020,Persons,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2020,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2020,Persons,K70,Alcoholic liver disease,77.8
+K02000001,United Kingdom,2020,Persons,K852,Alcohol-induced acute pancreatitis,1.4
+K02000001,United Kingdom,2020,Persons,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2020,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2020,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2020,Persons,X45,Accidental poisoning by and exposure to alcohol,6.0
+K02000001,United Kingdom,2020,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2020,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2020,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2020,Males,F10,Mental and behavioural disorders due to the use of alcohol,13.1
+K02000001,United Kingdom,2020,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2020,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2020,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2020,Males,I426,Alcoholic cardiomyopathy,2.2
+K02000001,United Kingdom,2020,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2020,Males,K70,Alcoholic liver disease,75.7
+K02000001,United Kingdom,2020,Males,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2020,Males,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2020,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2020,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2020,Males,X45,Accidental poisoning by and exposure to alcohol,6.4
+K02000001,United Kingdom,2020,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2020,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2020,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2020,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.0
+K02000001,United Kingdom,2020,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2020,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2020,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2020,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2020,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2020,Females,K70,Alcoholic liver disease,82.1
+K02000001,United Kingdom,2020,Females,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2020,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2020,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2020,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2020,Females,X45,Accidental poisoning by and exposure to alcohol,5.4
+K02000001,United Kingdom,2020,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2020,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2019,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2019,Persons,F10,Mental and behavioural disorders due to the use of alcohol,12.7
+K02000001,United Kingdom,2019,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2019,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2019,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2019,Persons,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2019,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2019,Persons,K70,Alcoholic liver disease,77.2
+K02000001,United Kingdom,2019,Persons,K852,Alcohol-induced acute pancreatitis,1.5
+K02000001,United Kingdom,2019,Persons,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2019,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2019,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2019,Persons,X45,Accidental poisoning by and exposure to alcohol,6.4
+K02000001,United Kingdom,2019,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2019,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2019,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2019,Males,F10,Mental and behavioural disorders due to the use of alcohol,13.7
+K02000001,United Kingdom,2019,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2019,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2019,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2019,Males,I426,Alcoholic cardiomyopathy,2.1
+K02000001,United Kingdom,2019,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2019,Males,K70,Alcoholic liver disease,75.1
+K02000001,United Kingdom,2019,Males,K852,Alcohol-induced acute pancreatitis,1.7
+K02000001,United Kingdom,2019,Males,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2019,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2019,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2019,Males,X45,Accidental poisoning by and exposure to alcohol,6.6
+K02000001,United Kingdom,2019,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2019,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2019,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2019,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.6
+K02000001,United Kingdom,2019,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2019,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2019,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2019,Females,I426,Alcoholic cardiomyopathy,0.6
+K02000001,United Kingdom,2019,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2019,Females,K70,Alcoholic liver disease,81.3
+K02000001,United Kingdom,2019,Females,K852,Alcohol-induced acute pancreatitis,1.1
+K02000001,United Kingdom,2019,Females,K860,Alcohol-induced chronic pancreatitis,0.1
+K02000001,United Kingdom,2019,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2019,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2019,Females,X45,Accidental poisoning by and exposure to alcohol,5.9
+K02000001,United Kingdom,2019,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2019,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2018,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2018,Persons,F10,Mental and behavioural disorders due to the use of alcohol,13.4
+K02000001,United Kingdom,2018,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2018,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2018,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2018,Persons,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2018,Persons,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2018,Persons,K70,Alcoholic liver disease,75.8
+K02000001,United Kingdom,2018,Persons,K852,Alcohol-induced acute pancreatitis,1.4
+K02000001,United Kingdom,2018,Persons,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2018,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2018,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2018,Persons,X45,Accidental poisoning by and exposure to alcohol,6.8
+K02000001,United Kingdom,2018,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2018,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2018,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2018,Males,F10,Mental and behavioural disorders due to the use of alcohol,13.8
+K02000001,United Kingdom,2018,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2018,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2018,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2018,Males,I426,Alcoholic cardiomyopathy,1.9
+K02000001,United Kingdom,2018,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2018,Males,K70,Alcoholic liver disease,74.6
+K02000001,United Kingdom,2018,Males,K852,Alcohol-induced acute pancreatitis,1.5
+K02000001,United Kingdom,2018,Males,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2018,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2018,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2018,Males,X45,Accidental poisoning by and exposure to alcohol,7.1
+K02000001,United Kingdom,2018,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2018,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2018,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2018,Females,F10,Mental and behavioural disorders due to the use of alcohol,12.4
+K02000001,United Kingdom,2018,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2018,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2018,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2018,Females,I426,Alcoholic cardiomyopathy,0.9
+K02000001,United Kingdom,2018,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2018,Females,K70,Alcoholic liver disease,78.3
+K02000001,United Kingdom,2018,Females,K852,Alcohol-induced acute pancreatitis,1.3
+K02000001,United Kingdom,2018,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2018,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2018,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2018,Females,X45,Accidental poisoning by and exposure to alcohol,6.1
+K02000001,United Kingdom,2018,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2018,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2017,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2017,Persons,F10,Mental and behavioural disorders due to the use of alcohol,12.0
+K02000001,United Kingdom,2017,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2017,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2017,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2017,Persons,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2017,Persons,K292,Alcoholic gastritis,0.4
+K02000001,United Kingdom,2017,Persons,K70,Alcoholic liver disease,77.7
+K02000001,United Kingdom,2017,Persons,K852,Alcohol-induced acute pancreatitis,1.3
+K02000001,United Kingdom,2017,Persons,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2017,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2017,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2017,Persons,X45,Accidental poisoning by and exposure to alcohol,6.2
+K02000001,United Kingdom,2017,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2017,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2017,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2017,Males,F10,Mental and behavioural disorders due to the use of alcohol,12.7
+K02000001,United Kingdom,2017,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2017,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2017,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2017,Males,I426,Alcoholic cardiomyopathy,2.2
+K02000001,United Kingdom,2017,Males,K292,Alcoholic gastritis,0.4
+K02000001,United Kingdom,2017,Males,K70,Alcoholic liver disease,76.0
+K02000001,United Kingdom,2017,Males,K852,Alcohol-induced acute pancreatitis,1.4
+K02000001,United Kingdom,2017,Males,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2017,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2017,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2017,Males,X45,Accidental poisoning by and exposure to alcohol,6.5
+K02000001,United Kingdom,2017,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2017,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2017,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2017,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.8
+K02000001,United Kingdom,2017,Females,G312,Degeneration of nervous system due to alcohol,0.0
+K02000001,United Kingdom,2017,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2017,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2017,Females,I426,Alcoholic cardiomyopathy,0.9
+K02000001,United Kingdom,2017,Females,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2017,Females,K70,Alcoholic liver disease,81.1
+K02000001,United Kingdom,2017,Females,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2017,Females,K860,Alcohol-induced chronic pancreatitis,0.0
+K02000001,United Kingdom,2017,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2017,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2017,Females,X45,Accidental poisoning by and exposure to alcohol,5.8
+K02000001,United Kingdom,2017,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2017,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2016,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2016,Persons,F10,Mental and behavioural disorders due to the use of alcohol,11.9
+K02000001,United Kingdom,2016,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2016,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2016,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2016,Persons,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2016,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2016,Persons,K70,Alcoholic liver disease,78.9
+K02000001,United Kingdom,2016,Persons,K852,Alcohol-induced acute pancreatitis,1.3
+K02000001,United Kingdom,2016,Persons,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2016,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2016,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2016,Persons,X45,Accidental poisoning by and exposure to alcohol,5.6
+K02000001,United Kingdom,2016,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2016,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.2
+K02000001,United Kingdom,2016,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2016,Males,F10,Mental and behavioural disorders due to the use of alcohol,12.5
+K02000001,United Kingdom,2016,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2016,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2016,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2016,Males,I426,Alcoholic cardiomyopathy,2.0
+K02000001,United Kingdom,2016,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2016,Males,K70,Alcoholic liver disease,77.3
+K02000001,United Kingdom,2016,Males,K852,Alcohol-induced acute pancreatitis,1.4
+K02000001,United Kingdom,2016,Males,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2016,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2016,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2016,Males,X45,Accidental poisoning by and exposure to alcohol,5.9
+K02000001,United Kingdom,2016,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2016,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.2
+K02000001,United Kingdom,2016,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2016,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.6
+K02000001,United Kingdom,2016,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2016,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2016,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2016,Females,I426,Alcoholic cardiomyopathy,0.7
+K02000001,United Kingdom,2016,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2016,Females,K70,Alcoholic liver disease,82.1
+K02000001,United Kingdom,2016,Females,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2016,Females,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2016,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2016,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2016,Females,X45,Accidental poisoning by and exposure to alcohol,4.8
+K02000001,United Kingdom,2016,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2016,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2015,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2015,Persons,F10,Mental and behavioural disorders due to the use of alcohol,11.5
+K02000001,United Kingdom,2015,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2015,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2015,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2015,Persons,I426,Alcoholic cardiomyopathy,1.2
+K02000001,United Kingdom,2015,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2015,Persons,K70,Alcoholic liver disease,79.4
+K02000001,United Kingdom,2015,Persons,K852,Alcohol-induced acute pancreatitis,1.3
+K02000001,United Kingdom,2015,Persons,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2015,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2015,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2015,Persons,X45,Accidental poisoning by and exposure to alcohol,6.0
+K02000001,United Kingdom,2015,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2015,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2015,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2015,Males,F10,Mental and behavioural disorders due to the use of alcohol,12.4
+K02000001,United Kingdom,2015,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2015,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2015,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2015,Males,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2015,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2015,Males,K70,Alcoholic liver disease,77.9
+K02000001,United Kingdom,2015,Males,K852,Alcohol-induced acute pancreatitis,1.5
+K02000001,United Kingdom,2015,Males,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2015,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2015,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2015,Males,X45,Accidental poisoning by and exposure to alcohol,5.9
+K02000001,United Kingdom,2015,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2015,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2015,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2015,Females,F10,Mental and behavioural disorders due to the use of alcohol,9.7
+K02000001,United Kingdom,2015,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2015,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2015,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2015,Females,I426,Alcoholic cardiomyopathy,0.6
+K02000001,United Kingdom,2015,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2015,Females,K70,Alcoholic liver disease,82.4
+K02000001,United Kingdom,2015,Females,K852,Alcohol-induced acute pancreatitis,0.8
+K02000001,United Kingdom,2015,Females,K860,Alcohol-induced chronic pancreatitis,0.0
+K02000001,United Kingdom,2015,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2015,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2015,Females,X45,Accidental poisoning by and exposure to alcohol,6.0
+K02000001,United Kingdom,2015,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2015,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2014,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2014,Persons,F10,Mental and behavioural disorders due to the use of alcohol,11.7
+K02000001,United Kingdom,2014,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2014,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2014,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2014,Persons,I426,Alcoholic cardiomyopathy,1.4
+K02000001,United Kingdom,2014,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2014,Persons,K70,Alcoholic liver disease,77.8
+K02000001,United Kingdom,2014,Persons,K852,Alcohol-induced acute pancreatitis,1.5
+K02000001,United Kingdom,2014,Persons,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2014,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2014,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2014,Persons,X45,Accidental poisoning by and exposure to alcohol,7.0
+K02000001,United Kingdom,2014,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2014,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2014,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2014,Males,F10,Mental and behavioural disorders due to the use of alcohol,12.1
+K02000001,United Kingdom,2014,Males,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2014,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2014,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2014,Males,I426,Alcoholic cardiomyopathy,1.7
+K02000001,United Kingdom,2014,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2014,Males,K70,Alcoholic liver disease,76.7
+K02000001,United Kingdom,2014,Males,K852,Alcohol-induced acute pancreatitis,1.8
+K02000001,United Kingdom,2014,Males,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2014,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2014,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2014,Males,X45,Accidental poisoning by and exposure to alcohol,7.0
+K02000001,United Kingdom,2014,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2014,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2014,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2014,Females,F10,Mental and behavioural disorders due to the use of alcohol,10.8
+K02000001,United Kingdom,2014,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2014,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2014,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2014,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2014,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2014,Females,K70,Alcoholic liver disease,79.8
+K02000001,United Kingdom,2014,Females,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2014,Females,K860,Alcohol-induced chronic pancreatitis,0.1
+K02000001,United Kingdom,2014,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2014,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2014,Females,X45,Accidental poisoning by and exposure to alcohol,7.1
+K02000001,United Kingdom,2014,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2014,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2013,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2013,Persons,F10,Mental and behavioural disorders due to the use of alcohol,10.5
+K02000001,United Kingdom,2013,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2013,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2013,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2013,Persons,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2013,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2013,Persons,K70,Alcoholic liver disease,78.8
+K02000001,United Kingdom,2013,Persons,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2013,Persons,K860,Alcohol-induced chronic pancreatitis,0.3
+K02000001,United Kingdom,2013,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2013,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2013,Persons,X45,Accidental poisoning by and exposure to alcohol,7.3
+K02000001,United Kingdom,2013,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2013,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2013,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2013,Males,F10,Mental and behavioural disorders due to the use of alcohol,11.3
+K02000001,United Kingdom,2013,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2013,Males,G621,Alcoholic polyneuropathy,0.1
+K02000001,United Kingdom,2013,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2013,Males,I426,Alcoholic cardiomyopathy,2.2
+K02000001,United Kingdom,2013,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2013,Males,K70,Alcoholic liver disease,77.5
+K02000001,United Kingdom,2013,Males,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2013,Males,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2013,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2013,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2013,Males,X45,Accidental poisoning by and exposure to alcohol,7.2
+K02000001,United Kingdom,2013,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2013,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2013,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2013,Females,F10,Mental and behavioural disorders due to the use of alcohol,8.6
+K02000001,United Kingdom,2013,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2013,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2013,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2013,Females,I426,Alcoholic cardiomyopathy,0.7
+K02000001,United Kingdom,2013,Females,K292,Alcoholic gastritis,0.0
+K02000001,United Kingdom,2013,Females,K70,Alcoholic liver disease,81.5
+K02000001,United Kingdom,2013,Females,K852,Alcohol-induced acute pancreatitis,0.8
+K02000001,United Kingdom,2013,Females,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2013,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2013,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2013,Females,X45,Accidental poisoning by and exposure to alcohol,7.5
+K02000001,United Kingdom,2013,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2013,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2012,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2012,Persons,F10,Mental and behavioural disorders due to the use of alcohol,11.1
+K02000001,United Kingdom,2012,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2012,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2012,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2012,Persons,I426,Alcoholic cardiomyopathy,1.7
+K02000001,United Kingdom,2012,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2012,Persons,K70,Alcoholic liver disease,78.3
+K02000001,United Kingdom,2012,Persons,K852,Alcohol-induced acute pancreatitis,0.7
+K02000001,United Kingdom,2012,Persons,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2012,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2012,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2012,Persons,X45,Accidental poisoning by and exposure to alcohol,7.6
+K02000001,United Kingdom,2012,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2012,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2012,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2012,Males,F10,Mental and behavioural disorders due to the use of alcohol,12.1
+K02000001,United Kingdom,2012,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2012,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2012,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2012,Males,I426,Alcoholic cardiomyopathy,2.1
+K02000001,United Kingdom,2012,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2012,Males,K70,Alcoholic liver disease,76.7
+K02000001,United Kingdom,2012,Males,K852,Alcohol-induced acute pancreatitis,0.8
+K02000001,United Kingdom,2012,Males,K860,Alcohol-induced chronic pancreatitis,0.2
+K02000001,United Kingdom,2012,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2012,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2012,Males,X45,Accidental poisoning by and exposure to alcohol,7.6
+K02000001,United Kingdom,2012,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2012,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2012,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2012,Females,F10,Mental and behavioural disorders due to the use of alcohol,9.2
+K02000001,United Kingdom,2012,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2012,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2012,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2012,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2012,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2012,Females,K70,Alcoholic liver disease,81.6
+K02000001,United Kingdom,2012,Females,K852,Alcohol-induced acute pancreatitis,0.6
+K02000001,United Kingdom,2012,Females,K860,Alcohol-induced chronic pancreatitis,0.1
+K02000001,United Kingdom,2012,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2012,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2012,Females,X45,Accidental poisoning by and exposure to alcohol,7.4
+K02000001,United Kingdom,2012,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2012,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2011,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2011,Persons,F10,Mental and behavioural disorders due to the use of alcohol,10.7
+K02000001,United Kingdom,2011,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2011,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2011,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2011,Persons,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2011,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2011,Persons,K70,Alcoholic liver disease,79.2
+K02000001,United Kingdom,2011,Persons,K852,Alcohol-induced acute pancreatitis,0.9
+K02000001,United Kingdom,2011,Persons,K860,Alcohol-induced chronic pancreatitis,0.1
+K02000001,United Kingdom,2011,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2011,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2011,Persons,X45,Accidental poisoning by and exposure to alcohol,6.5
+K02000001,United Kingdom,2011,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2011,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.2
+K02000001,United Kingdom,2011,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2011,Males,F10,Mental and behavioural disorders due to the use of alcohol,11.2
+K02000001,United Kingdom,2011,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2011,Males,G621,Alcoholic polyneuropathy,0.1
+K02000001,United Kingdom,2011,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2011,Males,I426,Alcoholic cardiomyopathy,2.3
+K02000001,United Kingdom,2011,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2011,Males,K70,Alcoholic liver disease,77.7
+K02000001,United Kingdom,2011,Males,K852,Alcohol-induced acute pancreatitis,1.0
+K02000001,United Kingdom,2011,Males,K860,Alcohol-induced chronic pancreatitis,0.1
+K02000001,United Kingdom,2011,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2011,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2011,Males,X45,Accidental poisoning by and exposure to alcohol,6.8
+K02000001,United Kingdom,2011,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2011,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.2
+K02000001,United Kingdom,2011,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2011,Females,F10,Mental and behavioural disorders due to the use of alcohol,9.7
+K02000001,United Kingdom,2011,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2011,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2011,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2011,Females,I426,Alcoholic cardiomyopathy,0.6
+K02000001,United Kingdom,2011,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2011,Females,K70,Alcoholic liver disease,82.3
+K02000001,United Kingdom,2011,Females,K852,Alcohol-induced acute pancreatitis,0.6
+K02000001,United Kingdom,2011,Females,K860,Alcohol-induced chronic pancreatitis,0.0
+K02000001,United Kingdom,2011,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2011,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2011,Females,X45,Accidental poisoning by and exposure to alcohol,6.0
+K02000001,United Kingdom,2011,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.2
+K02000001,United Kingdom,2011,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.2
+K02000001,United Kingdom,2010,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2010,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.9
+K02000001,United Kingdom,2010,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2010,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2010,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2010,Persons,I426,Alcoholic cardiomyopathy,1.3
+K02000001,United Kingdom,2010,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2010,Persons,K70,Alcoholic liver disease,79.0
+K02000001,United Kingdom,2010,Persons,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2010,Persons,K860,Alcohol-induced chronic pancreatitis,0.9
+K02000001,United Kingdom,2010,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2010,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2010,Persons,X45,Accidental poisoning by and exposure to alcohol,3.3
+K02000001,United Kingdom,2010,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2010,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2010,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2010,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.4
+K02000001,United Kingdom,2010,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2010,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2010,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2010,Males,I426,Alcoholic cardiomyopathy,1.7
+K02000001,United Kingdom,2010,Males,K292,Alcoholic gastritis,0.3
+K02000001,United Kingdom,2010,Males,K70,Alcoholic liver disease,77.8
+K02000001,United Kingdom,2010,Males,K852,Alcohol-induced acute pancreatitis,0.2
+K02000001,United Kingdom,2010,Males,K860,Alcohol-induced chronic pancreatitis,1.0
+K02000001,United Kingdom,2010,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2010,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2010,Males,X45,Accidental poisoning by and exposure to alcohol,3.3
+K02000001,United Kingdom,2010,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2010,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2010,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2010,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.8
+K02000001,United Kingdom,2010,Females,G312,Degeneration of nervous system due to alcohol,0.0
+K02000001,United Kingdom,2010,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2010,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2010,Females,I426,Alcoholic cardiomyopathy,0.5
+K02000001,United Kingdom,2010,Females,K292,Alcoholic gastritis,0.0
+K02000001,United Kingdom,2010,Females,K70,Alcoholic liver disease,81.4
+K02000001,United Kingdom,2010,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2010,Females,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2010,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2010,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2010,Females,X45,Accidental poisoning by and exposure to alcohol,3.2
+K02000001,United Kingdom,2010,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2010,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2009,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2009,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.4
+K02000001,United Kingdom,2009,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2009,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2009,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2009,Persons,I426,Alcoholic cardiomyopathy,1.7
+K02000001,United Kingdom,2009,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2009,Persons,K70,Alcoholic liver disease,79.3
+K02000001,United Kingdom,2009,Persons,K852,Alcohol-induced acute pancreatitis,0.2
+K02000001,United Kingdom,2009,Persons,K860,Alcohol-induced chronic pancreatitis,0.9
+K02000001,United Kingdom,2009,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2009,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2009,Persons,X45,Accidental poisoning by and exposure to alcohol,3.0
+K02000001,United Kingdom,2009,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2009,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2009,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2009,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.2
+K02000001,United Kingdom,2009,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2009,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2009,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2009,Males,I426,Alcoholic cardiomyopathy,2.1
+K02000001,United Kingdom,2009,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2009,Males,K70,Alcoholic liver disease,77.8
+K02000001,United Kingdom,2009,Males,K852,Alcohol-induced acute pancreatitis,0.2
+K02000001,United Kingdom,2009,Males,K860,Alcohol-induced chronic pancreatitis,1.1
+K02000001,United Kingdom,2009,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2009,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2009,Males,X45,Accidental poisoning by and exposure to alcohol,3.1
+K02000001,United Kingdom,2009,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2009,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2009,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2009,Females,F10,Mental and behavioural disorders due to the use of alcohol,12.8
+K02000001,United Kingdom,2009,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2009,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2009,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2009,Females,I426,Alcoholic cardiomyopathy,0.9
+K02000001,United Kingdom,2009,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2009,Females,K70,Alcoholic liver disease,82.2
+K02000001,United Kingdom,2009,Females,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2009,Females,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2009,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2009,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2009,Females,X45,Accidental poisoning by and exposure to alcohol,2.7
+K02000001,United Kingdom,2009,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2009,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2008,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2008,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.6
+K02000001,United Kingdom,2008,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2008,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2008,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2008,Persons,I426,Alcoholic cardiomyopathy,1.5
+K02000001,United Kingdom,2008,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2008,Persons,K70,Alcoholic liver disease,79.8
+K02000001,United Kingdom,2008,Persons,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2008,Persons,K860,Alcohol-induced chronic pancreatitis,0.9
+K02000001,United Kingdom,2008,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2008,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2008,Persons,X45,Accidental poisoning by and exposure to alcohol,2.7
+K02000001,United Kingdom,2008,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2008,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2008,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2008,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.1
+K02000001,United Kingdom,2008,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2008,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2008,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2008,Males,I426,Alcoholic cardiomyopathy,1.9
+K02000001,United Kingdom,2008,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2008,Males,K70,Alcoholic liver disease,78.7
+K02000001,United Kingdom,2008,Males,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2008,Males,K860,Alcohol-induced chronic pancreatitis,1.0
+K02000001,United Kingdom,2008,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2008,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2008,Males,X45,Accidental poisoning by and exposure to alcohol,2.8
+K02000001,United Kingdom,2008,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2008,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2008,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2008,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.6
+K02000001,United Kingdom,2008,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2008,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2008,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2008,Females,I426,Alcoholic cardiomyopathy,0.6
+K02000001,United Kingdom,2008,Females,K292,Alcoholic gastritis,0.0
+K02000001,United Kingdom,2008,Females,K70,Alcoholic liver disease,82.1
+K02000001,United Kingdom,2008,Females,K852,Alcohol-induced acute pancreatitis,0.2
+K02000001,United Kingdom,2008,Females,K860,Alcohol-induced chronic pancreatitis,0.6
+K02000001,United Kingdom,2008,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2008,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2008,Females,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2008,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2008,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2007,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2007,Persons,F10,Mental and behavioural disorders due to the use of alcohol,13.6
+K02000001,United Kingdom,2007,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2007,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2007,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2007,Persons,I426,Alcoholic cardiomyopathy,1.3
+K02000001,United Kingdom,2007,Persons,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2007,Persons,K70,Alcoholic liver disease,81.0
+K02000001,United Kingdom,2007,Persons,K852,Alcohol-induced acute pancreatitis,0.2
+K02000001,United Kingdom,2007,Persons,K860,Alcohol-induced chronic pancreatitis,0.9
+K02000001,United Kingdom,2007,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2007,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2007,Persons,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2007,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2007,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2007,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2007,Males,F10,Mental and behavioural disorders due to the use of alcohol,13.9
+K02000001,United Kingdom,2007,Males,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2007,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2007,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2007,Males,I426,Alcoholic cardiomyopathy,1.6
+K02000001,United Kingdom,2007,Males,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2007,Males,K70,Alcoholic liver disease,75.2
+K02000001,United Kingdom,2007,Males,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2007,Males,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2007,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2007,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2007,Males,X45,Accidental poisoning by and exposure to alcohol,1.7
+K02000001,United Kingdom,2007,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2007,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2007,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2007,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.0
+K02000001,United Kingdom,2007,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2007,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2007,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2007,Females,I426,Alcoholic cardiomyopathy,0.5
+K02000001,United Kingdom,2007,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2007,Females,K70,Alcoholic liver disease,82.7
+K02000001,United Kingdom,2007,Females,K852,Alcohol-induced acute pancreatitis,0.3
+K02000001,United Kingdom,2007,Females,K860,Alcohol-induced chronic pancreatitis,0.6
+K02000001,United Kingdom,2007,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2007,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2007,Females,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2007,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2007,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2006,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2006,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.4
+K02000001,United Kingdom,2006,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2006,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2006,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2006,Persons,I426,Alcoholic cardiomyopathy,1.4
+K02000001,United Kingdom,2006,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2006,Persons,K70,Alcoholic liver disease,80.4
+K02000001,United Kingdom,2006,Persons,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2006,Persons,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2006,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2006,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2006,Persons,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2006,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2006,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2006,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2006,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.1
+K02000001,United Kingdom,2006,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2006,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2006,Males,G721,Alcoholic myopathy,0.1
+K02000001,United Kingdom,2006,Males,I426,Alcoholic cardiomyopathy,1.9
+K02000001,United Kingdom,2006,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2006,Males,K70,Alcoholic liver disease,79.1
+K02000001,United Kingdom,2006,Males,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2006,Males,K860,Alcohol-induced chronic pancreatitis,1.0
+K02000001,United Kingdom,2006,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2006,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2006,Males,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2006,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2006,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2006,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2006,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.1
+K02000001,United Kingdom,2006,Females,G312,Degeneration of nervous system due to alcohol,0.0
+K02000001,United Kingdom,2006,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2006,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2006,Females,I426,Alcoholic cardiomyopathy,0.5
+K02000001,United Kingdom,2006,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2006,Females,K70,Alcoholic liver disease,83.2
+K02000001,United Kingdom,2006,Females,K852,Alcohol-induced acute pancreatitis,0.1
+K02000001,United Kingdom,2006,Females,K860,Alcohol-induced chronic pancreatitis,0.4
+K02000001,United Kingdom,2006,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2006,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2006,Females,X45,Accidental poisoning by and exposure to alcohol,2.5
+K02000001,United Kingdom,2006,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2006,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2005,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2005,Persons,F10,Mental and behavioural disorders due to the use of alcohol,15.0
+K02000001,United Kingdom,2005,Persons,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2005,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2005,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2005,Persons,I426,Alcoholic cardiomyopathy,1.5
+K02000001,United Kingdom,2005,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2005,Persons,K70,Alcoholic liver disease,79.3
+K02000001,United Kingdom,2005,Persons,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2005,Persons,K860,Alcohol-induced chronic pancreatitis,1.3
+K02000001,United Kingdom,2005,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2005,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2005,Persons,X45,Accidental poisoning by and exposure to alcohol,2.5
+K02000001,United Kingdom,2005,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2005,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2005,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2005,Males,F10,Mental and behavioural disorders due to the use of alcohol,16.3
+K02000001,United Kingdom,2005,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2005,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2005,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2005,Males,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2005,Males,K292,Alcoholic gastritis,0.0
+K02000001,United Kingdom,2005,Males,K70,Alcoholic liver disease,77.5
+K02000001,United Kingdom,2005,Males,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2005,Males,K860,Alcohol-induced chronic pancreatitis,1.5
+K02000001,United Kingdom,2005,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2005,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2005,Males,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2005,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2005,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2005,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2005,Females,F10,Mental and behavioural disorders due to the use of alcohol,12.3
+K02000001,United Kingdom,2005,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2005,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2005,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2005,Females,I426,Alcoholic cardiomyopathy,0.9
+K02000001,United Kingdom,2005,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2005,Females,K70,Alcoholic liver disease,83.1
+K02000001,United Kingdom,2005,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2005,Females,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2005,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2005,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2005,Females,X45,Accidental poisoning by and exposure to alcohol,2.7
+K02000001,United Kingdom,2005,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2005,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2004,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2004,Persons,F10,Mental and behavioural disorders due to the use of alcohol,15.5
+K02000001,United Kingdom,2004,Persons,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2004,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2004,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2004,Persons,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2004,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2004,Persons,K70,Alcoholic liver disease,78.9
+K02000001,United Kingdom,2004,Persons,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2004,Persons,K860,Alcohol-induced chronic pancreatitis,0.9
+K02000001,United Kingdom,2004,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2004,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2004,Persons,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2004,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2004,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2004,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2004,Males,F10,Mental and behavioural disorders due to the use of alcohol,16.6
+K02000001,United Kingdom,2004,Males,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2004,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2004,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2004,Males,I426,Alcoholic cardiomyopathy,2.3
+K02000001,United Kingdom,2004,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2004,Males,K70,Alcoholic liver disease,77.2
+K02000001,United Kingdom,2004,Males,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2004,Males,K860,Alcohol-induced chronic pancreatitis,1.1
+K02000001,United Kingdom,2004,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2004,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2004,Males,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2004,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2004,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2004,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2004,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.2
+K02000001,United Kingdom,2004,Females,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2004,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2004,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2004,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2004,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2004,Females,K70,Alcoholic liver disease,82.6
+K02000001,United Kingdom,2004,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2004,Females,K860,Alcohol-induced chronic pancreatitis,0.6
+K02000001,United Kingdom,2004,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2004,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2004,Females,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2004,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2004,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2003,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2003,Persons,F10,Mental and behavioural disorders due to the use of alcohol,13.8
+K02000001,United Kingdom,2003,Persons,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2003,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2003,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2003,Persons,I426,Alcoholic cardiomyopathy,1.9
+K02000001,United Kingdom,2003,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2003,Persons,K70,Alcoholic liver disease,80.8
+K02000001,United Kingdom,2003,Persons,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2003,Persons,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2003,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2003,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2003,Persons,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2003,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2003,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2003,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2003,Males,F10,Mental and behavioural disorders due to the use of alcohol,14.5
+K02000001,United Kingdom,2003,Males,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2003,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2003,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2003,Males,I426,Alcoholic cardiomyopathy,2.3
+K02000001,United Kingdom,2003,Males,K292,Alcoholic gastritis,0.0
+K02000001,United Kingdom,2003,Males,K70,Alcoholic liver disease,79.5
+K02000001,United Kingdom,2003,Males,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2003,Males,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2003,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2003,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2003,Males,X45,Accidental poisoning by and exposure to alcohol,2.2
+K02000001,United Kingdom,2003,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2003,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2003,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2003,Females,F10,Mental and behavioural disorders due to the use of alcohol,12.3
+K02000001,United Kingdom,2003,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2003,Females,G621,Alcoholic polyneuropathy,0.1
+K02000001,United Kingdom,2003,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2003,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2003,Females,K292,Alcoholic gastritis,0.2
+K02000001,United Kingdom,2003,Females,K70,Alcoholic liver disease,83.6
+K02000001,United Kingdom,2003,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2003,Females,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2003,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2003,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2003,Females,X45,Accidental poisoning by and exposure to alcohol,2.3
+K02000001,United Kingdom,2003,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2003,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1
+K02000001,United Kingdom,2002,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2002,Persons,F10,Mental and behavioural disorders due to the use of alcohol,14.7
+K02000001,United Kingdom,2002,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2002,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2002,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2002,Persons,I426,Alcoholic cardiomyopathy,2.6
+K02000001,United Kingdom,2002,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2002,Persons,K70,Alcoholic liver disease,79.4
+K02000001,United Kingdom,2002,Persons,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2002,Persons,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2002,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2002,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2002,Persons,X45,Accidental poisoning by and exposure to alcohol,2.1
+K02000001,United Kingdom,2002,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2002,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2002,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2002,Males,F10,Mental and behavioural disorders due to the use of alcohol,15.5
+K02000001,United Kingdom,2002,Males,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2002,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2002,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2002,Males,I426,Alcoholic cardiomyopathy,2.9
+K02000001,United Kingdom,2002,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2002,Males,K70,Alcoholic liver disease,78.3
+K02000001,United Kingdom,2002,Males,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2002,Males,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2002,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2002,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2002,Males,X45,Accidental poisoning by and exposure to alcohol,2.0
+K02000001,United Kingdom,2002,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2002,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2002,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2002,Females,F10,Mental and behavioural disorders due to the use of alcohol,13.0
+K02000001,United Kingdom,2002,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2002,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2002,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2002,Females,I426,Alcoholic cardiomyopathy,1.8
+K02000001,United Kingdom,2002,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2002,Females,K70,Alcoholic liver disease,81.9
+K02000001,United Kingdom,2002,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2002,Females,K860,Alcohol-induced chronic pancreatitis,0.5
+K02000001,United Kingdom,2002,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.1
+K02000001,United Kingdom,2002,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2002,Females,X45,Accidental poisoning by and exposure to alcohol,2.4
+K02000001,United Kingdom,2002,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2002,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2001,Persons,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2001,Persons,F10,Mental and behavioural disorders due to the use of alcohol,16.3
+K02000001,United Kingdom,2001,Persons,G312,Degeneration of nervous system due to alcohol,0.2
+K02000001,United Kingdom,2001,Persons,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2001,Persons,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2001,Persons,I426,Alcoholic cardiomyopathy,2.2
+K02000001,United Kingdom,2001,Persons,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2001,Persons,K70,Alcoholic liver disease,77.8
+K02000001,United Kingdom,2001,Persons,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2001,Persons,K860,Alcohol-induced chronic pancreatitis,0.7
+K02000001,United Kingdom,2001,Persons,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2001,Persons,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2001,Persons,X45,Accidental poisoning by and exposure to alcohol,2.7
+K02000001,United Kingdom,2001,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2001,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2001,Males,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2001,Males,F10,Mental and behavioural disorders due to the use of alcohol,17.0
+K02000001,United Kingdom,2001,Males,G312,Degeneration of nervous system due to alcohol,0.3
+K02000001,United Kingdom,2001,Males,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2001,Males,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2001,Males,I426,Alcoholic cardiomyopathy,2.8
+K02000001,United Kingdom,2001,Males,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2001,Males,K70,Alcoholic liver disease,76.3
+K02000001,United Kingdom,2001,Males,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2001,Males,K860,Alcohol-induced chronic pancreatitis,0.6
+K02000001,United Kingdom,2001,Males,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2001,Males,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2001,Males,X45,Accidental poisoning by and exposure to alcohol,2.9
+K02000001,United Kingdom,2001,Males,X65,Intentional self-poisoning by and exposure to alcohol,0.0
+K02000001,United Kingdom,2001,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.0
+K02000001,United Kingdom,2001,Females,E244,Alcohol-induced pseudo-Cushing's syndrome,0.0
+K02000001,United Kingdom,2001,Females,F10,Mental and behavioural disorders due to the use of alcohol,14.9
+K02000001,United Kingdom,2001,Females,G312,Degeneration of nervous system due to alcohol,0.1
+K02000001,United Kingdom,2001,Females,G621,Alcoholic polyneuropathy,0.0
+K02000001,United Kingdom,2001,Females,G721,Alcoholic myopathy,0.0
+K02000001,United Kingdom,2001,Females,I426,Alcoholic cardiomyopathy,0.8
+K02000001,United Kingdom,2001,Females,K292,Alcoholic gastritis,0.1
+K02000001,United Kingdom,2001,Females,K70,Alcoholic liver disease,80.9
+K02000001,United Kingdom,2001,Females,K852,Alcohol-induced acute pancreatitis,0.0
+K02000001,United Kingdom,2001,Females,K860,Alcohol-induced chronic pancreatitis,0.8
+K02000001,United Kingdom,2001,Females,Q860,Fetal alcohol syndrome (dysmorphic),0.0
+K02000001,United Kingdom,2001,Females,R780,Excess alcohol blood levels,0.0
+K02000001,United Kingdom,2001,Females,X45,Accidental poisoning by and exposure to alcohol,2.2
+K02000001,United Kingdom,2001,Females,X65,Intentional self-poisoning by and exposure to alcohol,0.1
+K02000001,United Kingdom,2001,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0.1

@@ -1,0 +1,93 @@
+IT'S NOT ABOUT THE TOOL (v2) | Power BI measures
+================================================
+Tables after Power Query (names must match exactly):
+  Regions      = Table_6   (England, 9 regions, 648 rows)
+  Causes       = Table_9   (UK, 15 causes, Total column, 1080 rows)
+  CauseShares  = Table_10  (UK, published % per cause, 1080 rows)
+  Deprivation  = Table_11  (England, IMD quintiles, 35 rows)
+  CausesByAge  = Table_9 unpivoted (one row per cause x age band, 21,600 rows)
+  Years        = lookup table, 24 rows, linked to all five on [Year]
+  _Measures    = empty table that holds the measures
+
+Add each one: click _Measures > Home > New measure > paste > Enter > set the format.
+------------------------------------------------------------
+
+1) England Deaths            (Table_6; Persons only, so nothing is double counted)
+England Deaths = CALCULATE ( SUM ( Regions[Deaths] ), Regions[Sex] = "Persons" )
+   Format: Whole number, thousands separator
+
+2) England Rate              (AVERAGE, never SUM: rates cannot be added)
+England Rate = CALCULATE ( AVERAGE ( Regions[Rate] ), Regions[Sex] = "Persons" )
+   Format: Decimal, 1 dp
+
+3) Lower 95 / 4) Upper 95    (for the error bars on the region chart)
+Lower 95 = CALCULATE ( AVERAGE ( Regions[LCL] ), Regions[Sex] = "Persons" )
+Upper 95 = CALCULATE ( AVERAGE ( Regions[UCL] ), Regions[Sex] = "Persons" )
+   Format: Decimal, 1 dp
+
+5) England Deaths 2019 / 6) England Deaths 2024
+England Deaths 2019 = CALCULATE ( [England Deaths], Years[Year] = 2019 )
+England Deaths 2024 = CALCULATE ( [England Deaths], Years[Year] = 2024 )
+   Format: Whole number, thousands separator
+
+7) Change vs 2019 %
+Change vs 2019 % = DIVIDE ( [England Deaths 2024] - [England Deaths 2019], [England Deaths 2019] )
+   Format: Percentage, 1 dp          Expect 31.8%
+
+8) UK Deaths                 (Table_9 is the whole UK, not England: label it on the visual)
+UK Deaths = CALCULATE ( SUM ( Causes[Total] ), Causes[Sex] = "Persons" )
+   Format: Whole number, thousands separator      Expect 9,809 for 2024
+
+9) Cause Share %             (the published proportion, so you never recompute it wrongly)
+Cause Share % = CALCULATE ( AVERAGE ( CauseShares[Proportion] ), CauseShares[Sex] = "Persons" )
+   Format: Decimal, 1 dp
+
+10) Liver Disease Share %
+Liver Disease Share % =
+CALCULATE ( [Cause Share %], CauseShares[ICD] = "K70" )
+   Format: Decimal, 1 dp             Expect 74.3 for 2024
+
+11) Deaths by Age            (from the unpivoted table)
+Deaths by Age = CALCULATE ( SUM ( CausesByAge[Deaths] ), CausesByAge[Sex] = "Persons" )
+   Format: Whole number
+
+12) Age Share %              (each band as a share of that year's UK deaths)
+Age Share % =
+DIVIDE ( [Deaths by Age],
+         CALCULATE ( [Deaths by Age], ALL ( CausesByAge[Age band] ) ) )
+   Format: Percentage, 1 dp          Expect 16.8% for 55-59 in 2024
+
+13) Male Rate (deprivation) / 14) Female Rate (deprivation)
+Male Rate IMD = AVERAGE ( Deprivation[Male Rate] )
+Female Rate IMD = AVERAGE ( Deprivation[Female Rate] )
+   Format: Decimal, 1 dp
+
+15) Deprivation Gap (men)    (most deprived fifth divided by least deprived fifth)
+Deprivation Gap Men =
+DIVIDE ( CALCULATE ( [Male Rate IMD], Deprivation[IMD Quintile] = 1 ),
+         CALCULATE ( [Male Rate IMD], Deprivation[IMD Quintile] = 5 ) )
+   Format: Decimal, 2 dp             Expect 3.97 for 2024
+
+16) Deprivation Gap (women)
+Deprivation Gap Women =
+DIVIDE ( CALCULATE ( [Female Rate IMD], Deprivation[IMD Quintile] = 1 ),
+         CALCULATE ( [Female Rate IMD], Deprivation[IMD Quintile] = 5 ) )
+   Format: Decimal, 2 dp             Expect 3.02 for 2024
+
+17) Highest Region           (for the KPI card)
+Highest Region =
+VAR t = ADDCOLUMNS ( ALL ( Regions[Region] ), "@r", [England Rate] )
+RETURN MAXX ( TOPN ( 1, t, [@r], DESC ), Regions[Region] )
+
+18) Bar Colour               (red for the worst region, grey for the rest)
+Bar Colour =
+VAR mx = MAXX ( ALLSELECTED ( Regions[Region] ), [England Rate] )
+RETURN IF ( [England Rate] = mx, "#C0392B", "#95A5A6" )
+
+------------------------------------------------------------
+EXPECTED (Year slicer = 2024)
+  England Deaths 7,673 | Change vs 2019 31.8% | Highest Region North East (21.1)
+  UK Deaths 9,809 | Liver Disease Share 74.3% | peak Age Share 16.8% (55-59)
+  Deprivation Gap Men 3.97 | Deprivation Gap Women 3.02
+  TRAP: drop Regions[Deaths] straight onto a card without the Persons filter and
+  you get 15,346 for 2024. That is every death counted twice.
